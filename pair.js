@@ -36,7 +36,7 @@ const BOT_NAME_FANCY = 'FREE HOSTING BOT';
 
 
 const config = {
-  MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://chamafreehosting:Chamindu47@21@freechama.moe3veb.mongodb.net//',
+  MONGO_URI: process.env.MONGO_URI || 'mongodb+srv://gaveshvimanshana1234_db_user:LGL5sWMX9VrJmOuE@cluster0.orslfxw.mongodb.net/',
   SESSION_ID: process.env.SESSION_ID || '', // your session id or catbox url
   CREDS_JSON: process.env.CREDS_JSON || '', // your raw creds.json content
   AUTO_VIEW_STATUS: 'true',
